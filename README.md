@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @EUWOmelette
+- 👀 I’m interested in DevOps / Automation
+- 🌱 I’m currently learning network & system engineering
+- 💞️ I’m looking to collaborate on any automation projet !
+- 📫 How to reach me : dm me !
+
+<!---
+EUWOmelette/EUWOmelette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
