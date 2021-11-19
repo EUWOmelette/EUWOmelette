@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps / Automation
 - 🌱 I’m currently learning network & system engineering
 - 💞️ I’m looking to collaborate on any automation projet !
-- 📫 How to reach me : saby.benjaminrobert@gmail.com
+- 📫 How to reach me : benjamin.saby@outlook.fr
 
 <!---
 EUWOmelette/EUWOmelette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
