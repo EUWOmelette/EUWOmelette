@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EUWOmelette
 - 👀 I’m interested in DevOps / Automation
-- 🌱 I’m currently learning network & system engineering
+- 🌱 I’m currently an Integration Engineer @ AS30781
 - 💞️ I’m looking to collaborate on any automation projet !
 - 📫 How to reach me : benjamin.saby@outlook.fr
 
